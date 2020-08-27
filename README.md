@@ -7,8 +7,6 @@
 - ⚡ Fun fact: I like to play games 🎮 and draw 👨‍🎨
 
 <br />
----
-___
 
 ### Languages and Tools:
 
