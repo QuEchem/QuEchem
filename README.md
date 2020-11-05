@@ -1,7 +1,7 @@
 ## Hello, I'm Nnaemeka 👋
 
 ### 2020 Goals
-- 👨‍🎓 I'm currently learning everything 😅
+- 👨‍🎓 I'm currently learning Hooks, Typescript and Gatsby
 - 💻 I'm looking to become a frontend developer 
 - 🔥 I want to contribute more projects to my github
 - ⚡ Fun fact: I like to play games 🎮 and draw 👨‍🎨
